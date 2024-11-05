@@ -11,4 +11,4 @@ order: 4
 - Worked with fortune 500 and unicorn companies across the globe to secure their digital assets.
 - Scaled a Design Agency to 2.5k MRR in 2 months
 
-  Building SyncZero ( a cyber security consulting & product company ) 
+> Building SyncZero ( a cyber security consulting & product company ) 
