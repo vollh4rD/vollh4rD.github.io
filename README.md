@@ -1,1 +1,1 @@
-This is a blog of Samrudh Yash ( vollhard )
+This is a blog of Samrudh ( vollhard )
